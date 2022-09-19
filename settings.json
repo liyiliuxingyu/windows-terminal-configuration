@@ -109,7 +109,7 @@
             {
                 "altGrAliasing": true,
                 "antialiasingMode": "grayscale",
-                "commandline": "cmd.exe /K C:\\apps\\texlive\\bin\\win32\\tlmgr.bat update --self --reinstall-forcibly-removed --all",
+                "commandline": "cmd.exe /K C:\\apps\\texlive\\bin\\win32\\tlmgr.bat update --self --reinstall-forcibly-removed --all --repository https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/tlnet",
                 "elevate": true,
                 "guid": "{bc09d017-e011-44c7-a139-d81a33bf98e3}",
                 "hidden": false,
